@@ -18,6 +18,8 @@ def valid?
   else
     @status == "closed"
   end
+end
+def close_account
   
 end
 
