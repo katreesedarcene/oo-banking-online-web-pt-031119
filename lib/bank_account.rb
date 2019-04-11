@@ -10,7 +10,7 @@ def deposit(money_deposit)
   self.balance += money_deposit
 end
 def display_balance
-  "Your balance is $#{avi.balance}."
+  "Your balance is $#{balance}."
 end
 
 end
