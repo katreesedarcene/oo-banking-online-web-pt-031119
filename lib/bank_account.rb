@@ -9,5 +9,9 @@ end
 def deposit(money_deposit)
   self.balance += money_deposit
 end
+def display_balance
+  
+  
+end
 
 end
