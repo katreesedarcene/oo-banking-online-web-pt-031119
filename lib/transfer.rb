@@ -19,6 +19,7 @@ class Transfer
       self.status = "complete"
     else
       self.status = "rejected"
+      puts
     end
   end
 end
