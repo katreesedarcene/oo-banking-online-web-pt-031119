@@ -8,8 +8,6 @@ def initialize(name)
 end
 def deposit(money_deposit)
   self.balance += money_deposit
-  
-  
 end
 
 end
